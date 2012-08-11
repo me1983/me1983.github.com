@@ -4,7 +4,7 @@
   <title><![CDATA[blog.1983.me]]></title>
   <link href="http://me1983.github.com/atom.xml" rel="self"/>
   <link href="http://me1983.github.com/"/>
-  <updated>2012-08-11T14:26:21+08:00</updated>
+  <updated>2012-08-11T14:29:10+08:00</updated>
   <id>http://me1983.github.com/</id>
   <author>
     <name><![CDATA[Jeff]]></name>
@@ -34,9 +34,13 @@
 
 <p><img src="http://www.google.com/logos/2012/tubav12-hp.jpg" alt="Google" /></p>
 
-<p>Lists:<br/>
-1.  item1.
-2.  item2.</p>
+<p>Lists:</p>
+
+<ol>
+<li>item1.</li>
+<li>item2.</li>
+</ol>
+
 
 <p>Python codes:</p>
 
